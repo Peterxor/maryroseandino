@@ -10,7 +10,7 @@ services:
         max-file: "10"
     restart: always
     ports:
-    - "313:80"
+    - "80:80"
     expose:
     - "80"
     volumes:
