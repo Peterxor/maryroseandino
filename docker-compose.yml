@@ -1,0 +1,22 @@
+version: '2'
+services:
+  nginx:
+    image: nginx
+    container_name: andino_nginx
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1024k"
+        max-file: "10"
+    restart: always
+    ports:
+    - "313:80"
+    expose:
+    - "80"
+    volumes:
+    - ./:/usr/share/nginx/html
+    - ./config/nginx/conf.d/:/etc/nginx/conf.d/:ro
+#    - ./config/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    # - ./nginx/ca/server.crt/:/etc/nginx/server.crt:ro
+    # - ./nginx/ca/server.key/:/etc/nginx/server.key:ro
+    # - /etc/localtime:/etc/localtime:ro
