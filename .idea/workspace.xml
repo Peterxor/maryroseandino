@@ -2,108 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eddc69b2-97d2-4e95-965b-5c7c19573a3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/radius/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/radius/jquery.poptrox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/radius/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/radius/skel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/radius/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/andiandset/setandandi.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/andiandset/setandi2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/andiandset/setandi3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/andiandset/setandi4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach10.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach11.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach12.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach13.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach14.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach15.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach16.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach7.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach8.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/beach/beach9.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/friends/friend1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/friends/friend2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/friends/friend3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/friends/friend4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/friends/friend5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/model/model1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/model/model2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self10.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self11.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self12.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self13.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self14.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self15.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self7.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self8.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/self/self9.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thinking/thinking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thinking/thinking1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thinking/thinking2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thinking/thinking3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thinking/thinking4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thinking/thinking5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thinking/thinking6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/travel.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/travel1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/travel2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/travel3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/travel4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/travel5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/travel/travel6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild7.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild8.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild/wild9.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/work/work.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/work/work1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/work/work2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/work/work3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/work/work4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/work/work5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strength.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wild.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detail1.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detail2.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/morepic.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/andiandset/setandandi.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/andiandset/setandandi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/andiandset/setandi2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/andiandset/setandi2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/andiandset/setandi3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/andiandset/setandi3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/andiandset/setandi4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/andiandset/setandi4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach12.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach13.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach14.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach15.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach16.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach/beach9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach/beach9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/friends/friend1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/friends/friend1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/friends/friend2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/friends/friend2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/friends/friend3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/friends/friend3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/friends/friend4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/friends/friend4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/friends/friend5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/friends/friend5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/model/model1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/model/model1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self10.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self12.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self13.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self14.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self15.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/self/self9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/self/self9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thinking/thinking1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/thinking/thinking1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thinking/thinking2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/thinking/thinking2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thinking/thinking3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/thinking/thinking3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thinking/thinking4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/thinking/thinking4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thinking/thinking5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/thinking/thinking5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/travel/travel.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/travel/travel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/travel/travel1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/travel/travel1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/travel/travel2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/travel/travel2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/travel/travel3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/travel/travel3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/travel/travel4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/travel/travel4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/travel/travel5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/travel/travel5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/travel/travel6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/travel/travel6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild7.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild8.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wild/wild9.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/wild/wild9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work/work.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/work.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work/work1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/work1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work/work2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/work2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work/work3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/work3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work/work4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/work4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work/work5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/work5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strength.html" beforeDir="false" afterPath="$PROJECT_DIR$/strength.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.html" beforeDir="false" afterPath="$PROJECT_DIR$/thinking.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/strength.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="117" column="28" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+            <state relative-caret-position="705">
+              <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -137,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thinking.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1575">
+            <state relative-caret-position="1187">
               <caret line="105" column="43" selection-start-line="105" selection-start-column="43" selection-end-line="105" selection-end-column="43" />
             </state>
           </provider>
@@ -146,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wild.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
+            <state relative-caret-position="1297">
               <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
             </state>
           </provider>
@@ -155,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
+            <state relative-caret-position="229">
               <caret line="105" column="53" selection-start-line="105" selection-start-column="53" selection-end-line="105" selection-end-column="53" />
             </state>
           </provider>
@@ -167,6 +138,8 @@
     <findStrings>
       <find>bg-img</find>
       <find>let</find>
+      <find>JPG</find>
+      <find>self2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -192,10 +165,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="800" />
+    <option name="height" value="803" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -242,7 +215,55 @@
               <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
               <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="andiandset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="beach" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="friends" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="thinking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="travel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="wild" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,10 +314,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14639000" />
+    <option name="totallyTimeSpent" value="15881000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
@@ -464,7 +485,7 @@
     <entry file="file://$PROJECT_DIR$/assets/js/radius/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/friends/friend3.JPG">
+    <entry file="file://$PROJECT_DIR$/images/friends/friend3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -477,31 +498,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/self/self2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/andiandset/setandandi.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/wild.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
+        <state relative-caret-position="1297">
           <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="229">
           <caret line="105" column="53" selection-start-line="105" selection-start-column="53" selection-end-line="105" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thinking.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
+        <state relative-caret-position="1187">
           <caret line="105" column="43" selection-start-line="105" selection-start-column="43" selection-end-line="105" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/strength.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="117" column="28" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+        <state relative-caret-position="705">
+          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
         </state>
       </provider>
     </entry>
