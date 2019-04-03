@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eddc69b2-97d2-4e95-965b-5c7c19573a3c" name="Default Changelist" comment="" />
+    <list default="true" id="eddc69b2-97d2-4e95-965b-5c7c19573a3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/little_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/speechless.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speechless.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/nginx/conf.d/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/nginx/conf.d/default.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail1.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail2.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/generic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strength.html" beforeDir="false" afterPath="$PROJECT_DIR$/strength.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.html" beforeDir="false" afterPath="$PROJECT_DIR$/thinking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wild.html" beforeDir="false" afterPath="$PROJECT_DIR$/wild.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +26,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/little_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2295">
-              <caret line="153" column="30" selection-start-line="151" selection-start-column="24" selection-end-line="153" selection-end-column="30" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/speechless.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="77" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/strength.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="118" column="297" selection-start-line="118" selection-start-column="297" selection-end-line="118" selection-end-column="297" />
+            <state relative-caret-position="1105">
+              <caret line="112" selection-start-line="112" selection-end-line="112" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,7 +59,10 @@
         <entry file="file://$PROJECT_DIR$/thinking.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
-              <caret line="105" column="235" selection-start-line="105" selection-start-column="235" selection-end-line="105" selection-end-column="235" />
+              <caret line="105" column="69" selection-start-line="105" selection-start-column="69" selection-end-line="105" selection-end-column="69" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,7 +71,10 @@
         <entry file="file://$PROJECT_DIR$/wild.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="105" column="172" selection-start-line="105" selection-start-column="172" selection-end-line="105" selection-end-column="172" />
+              <caret line="105" column="69" selection-start-line="105" selection-start-column="69" selection-end-line="105" selection-end-column="69" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,8 +82,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="105" column="152" selection-start-line="105" selection-start-column="152" selection-end-line="105" selection-end-column="152" />
+            <state relative-caret-position="663">
+              <caret line="127" selection-start-line="127" selection-end-line="127" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -80,11 +125,13 @@
         <option value="$PROJECT_DIR$/detail2.html" />
         <option value="$PROJECT_DIR$/config/nginx/conf.d/default.conf" />
         <option value="$PROJECT_DIR$/morepic.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/travel.html" />
-        <option value="$PROJECT_DIR$/wild.html" />
-        <option value="$PROJECT_DIR$/thinking.html" />
         <option value="$PROJECT_DIR$/strength.html" />
+        <option value="$PROJECT_DIR$/thinking.html" />
+        <option value="$PROJECT_DIR$/wild.html" />
+        <option value="$PROJECT_DIR$/speechless.html" />
+        <option value="$PROJECT_DIR$/travel.html" />
+        <option value="$PROJECT_DIR$/little_index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -105,88 +152,6 @@
               <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
               <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="nginx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="nginx" type="462c0819:PsiDirectoryNode" />
-              <item name="conf.d" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="andiandset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="beach" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="friends" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="self" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="thinking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="travel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="wild" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maryroseandino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maryroseandino" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -197,17 +162,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/music" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/music" />
       <recent name="$PROJECT_DIR$/images/model" />
       <recent name="$PROJECT_DIR$/images/work" />
       <recent name="$PROJECT_DIR$/images/wild" />
       <recent name="$PROJECT_DIR$/images/travel" />
-      <recent name="$PROJECT_DIR$/images/thinking" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -233,12 +198,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554022295260</updated>
       <workItem from="1554022296939" duration="4422000" />
-      <workItem from="1554279185420" duration="1217000" />
+      <workItem from="1554279185420" duration="3314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18027000" />
+    <option name="totallyTimeSpent" value="20124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -248,7 +213,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -418,38 +383,64 @@
     <entry file="file://$PROJECT_DIR$/images/andiandset/setandandi.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/speechless.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="153" column="30" selection-start-line="151" selection-start-column="24" selection-end-line="153" selection-end-column="30" />
+        <state relative-caret-position="120">
+          <caret line="8" column="77" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travel.html">
+    <entry file="file://$PROJECT_DIR$/strength.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="105" column="152" selection-start-line="105" selection-start-column="152" selection-end-line="105" selection-end-column="152" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wild.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="105" column="172" selection-start-line="105" selection-start-column="172" selection-end-line="105" selection-end-column="172" />
+        <state relative-caret-position="1105">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thinking.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="105" column="235" selection-start-line="105" selection-start-column="235" selection-end-line="105" selection-end-column="235" />
+          <caret line="105" column="69" selection-start-line="105" selection-start-column="69" selection-end-line="105" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strength.html">
+    <entry file="file://$PROJECT_DIR$/wild.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="118" column="297" selection-start-line="118" selection-start-column="297" selection-end-line="118" selection-end-column="297" />
+        <state relative-caret-position="350">
+          <caret line="105" column="69" selection-start-line="105" selection-start-column="69" selection-end-line="105" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/little_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
         </state>
       </provider>
     </entry>
